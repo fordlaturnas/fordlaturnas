@@ -1,7 +1,7 @@
 - 👋 Hi, I’m fordlaturnas
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning VueJS
-- 💞️ I’m looking to collaborate on VueJ Projects
+- 💞️ I’m looking to collaborate on VueJS Projects
 - 📫 How to reach me @github.com/fordlaturnas
 
 <!---
