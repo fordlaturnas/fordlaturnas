@@ -1,4 +1,4 @@
-- 👋 Hi, I’m fordlaturnas
+- 👋 Hi, I’m ford laturnas
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning VueJS
 - 💞️ I’m looking to collaborate on VueJS Projects
