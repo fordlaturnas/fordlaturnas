@@ -45,6 +45,7 @@
 
 ---
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 [youtube]: https://www.youtube.com/c/ezkowd
 [instagram]: https://www.instagram.com/fordlaturnas
