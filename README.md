@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I am also a photographer and video editor and i love playing guitar
+- ⚡ Fun fact: I am also a photographer, videographer, editor and guitarist.
 
 ### Connect with me:
 
