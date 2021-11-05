@@ -29,6 +29,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+<br />
+
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem-fordlaturnas.vercel.app/api/spotify)](https://open.spotify.com/user/31of4h6g5k4qr4jaebb3q3lgyrjm)
 
