@@ -51,6 +51,13 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-dusky-delta.vercel.app/api?username=fordlaturnas&show_icons=true&hide_border=true" />
+
+</details>
+
 [youtube]: https://www.youtube.com/c/ezkowd
 [instagram]: https://www.instagram.com/fordlaturnas
 [linkedin]: https://www.linkedin.com/in/fordlaturnas
