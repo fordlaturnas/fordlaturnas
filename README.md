@@ -23,7 +23,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Vuejs" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/Vue.js.svg" />
+<img align="left" alt="Vuejs" width="26" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AVue.js_Logo_2.svg&psig=AOvVaw0gDHssqAJ8EIhcr6ryH30v&ust=1636181145872000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjhjPHPgPQCFQAAAAAdAAAAABAD" />
 
 <br />
 <br />
