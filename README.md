@@ -27,6 +27,12 @@
 <br />
 <br />
 
+---
+
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 [youtube]: https://www.youtube.com/c/ezkowd
 [instagram]: https://www.instagram.com/fordlaturnas
 [linkedin]: https://www.linkedin.com/in/fordlaturnas
