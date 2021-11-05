@@ -38,6 +38,9 @@
 - [Paano i-install ang Vue JS - Tagalog Tutorial](https://www.youtube.com/watch?v=CWBZe-jiRAI)
 <!-- YOUTUBE:END -->
 
+---
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=fordlaturnas&show_icons=true&hide_border=true" />
+
 [youtube]: https://www.youtube.com/c/ezkowd
 [instagram]: https://www.instagram.com/fordlaturnas
 [linkedin]: https://www.linkedin.com/in/fordlaturnas
