@@ -1,6 +1,6 @@
 ### Hi there, I'm Ford Laturnas 👋
 
-## I'm Web Developer, and Teacher!!
+## I'm Web Developer, and YouTube Content Creator!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
