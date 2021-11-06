@@ -40,7 +40,7 @@
 
 ---
 
-### 📺 My Latest YouTube Videos
+### 📺 My Latest YouTube Videos:
 <!-- YOUTUBE:START -->
 - [Kinetic Loader HTML CSS - Tagalog Tutorial (Web Development Project)](https://www.youtube.com/watch?v=MxqIm9iTEb0)
 - [Drag and Drop - HTML CSS JavaScript Web Development Project](https://www.youtube.com/watch?v=_AzmkiRX-fw)
