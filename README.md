@@ -42,11 +42,11 @@
 
 ### 📺 My Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [Kinetic Loader #shorts](https://www.youtube.com/watch?v=ToDuC7qjZLg)
 - [Kinetic Loader HTML CSS - Tagalog Tutorial (Web Development Project)](https://www.youtube.com/watch?v=MxqIm9iTEb0)
 - [Drag and Drop - HTML CSS JavaScript Web Development Project](https://www.youtube.com/watch?v=_AzmkiRX-fw)
 - [Drag and Drop - Coding Timelapse HTML CSS JavaScript Web Dev Project](https://www.youtube.com/watch?v=ubCIJDyIbRg)
 - [Paano gumawa ng Vue JS Project - Tagalog Tutorial](https://www.youtube.com/watch?v=oYcMWyuG9Fw)
-- [Paano i-install ang Vue JS - Tagalog Tutorial](https://www.youtube.com/watch?v=CWBZe-jiRAI)
 <!-- YOUTUBE:END -->
 
 ---
