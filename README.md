@@ -3,7 +3,7 @@
 ## I'm Web Developer and YouTube Content Creator!!:fire: :fire: :fire:
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developer and content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I am also a photographer, videographer, editor and guitarist.
 
