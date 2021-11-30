@@ -53,7 +53,7 @@
 
 ### :zap: GitHub Stats
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-dusky-delta.vercel.app/api?username=fordlaturnas&show_icons=true&hide_border=true" />
+  <img align="left" alt="Ford Laturnas' GitHub Stats" src="https://github-readme-stats-dusky-delta.vercel.app/api?username=fordlaturnas&show_icons=true&hide_border=true" />
 
 
 
