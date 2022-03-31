@@ -63,7 +63,7 @@
 
 
 
-[![Ford Laturnas wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fordlaturnas)](https://github.com/anuraghazra/github-readme-stats)
+[![Ford Laturnas wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@fordlaturnas335)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
