@@ -75,7 +75,7 @@
 
 
 
-[![Ford's github activity graph](https://activity-graph.herokuapp.com/graph?username=fordlaturnas&bg_color=242C33&color=b2cde6&line=5a0c99&point=9FCCFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ford's github activity graph](https://activity-graph.herokuapp.com/graph?username=fordlaturnas&bg_color=242C33&color=b2cde6&line=F87683&point=9FCCFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  <!--[Ford Laturnas GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=fordlaturnas&theme=xcode)>
 
