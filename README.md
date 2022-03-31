@@ -12,19 +12,20 @@
 
 
 <p  align="left">
-<a  href="https://twitter.com/ShahriyarMitul"  target="_blank">
-<img  align="center"  src="https://img.icons8.com/doodle/2x/twitter.png" height="40"  width="40"  /></a>
-<a  href="https://www.linkedin.com/in/md-shahriyar-al-mustakim-mitul-9084b31a0/"  target="_blank">
+<a  href="https://www.linkedin.com/in/fordlaturnas/"  target="_blank">
 <img  align="center"  src="https://img.icons8.com/doodle/2x/linkedin.png" height="40"  width="40"  /></a>
-<a href="mailto:shahriyarmitul3737@gmail.com" target="_blank">
-<img  align="center"  src="https://img.icons8.com/doodle/2x/gmail.png"  height="40"  width="40"  /></a>
-<a href="https://discord.gg/yzegezxsd8" target="_blank">
-<img  align="center"  src="https://img.icons8.com/doodle/2x/discord.png"  height="40"  width="40"  /></a>  
-<a href="https://www.youtube.com/c/MitulShahriyar" target="_blank">
-<img  align="center"  src="https://img.icons8.com/doodle/2x/youtube.png"  height="40"  width="40"  /></a>
-<a href="https://dev.to/mitul3737" target="_blank">
-<img  align="center"  src="https://img.icons8.com/windows/32/000000/dev.png"  height="40"  width="40"  /></a>
     
+<a href="https://www.youtube.com/ezkowd" target="_blank">
+<img  align="center"  src="https://img.icons8.com/doodle/2x/youtube.png"  height="40"  width="40"  /></a>
+    
+<a href="https://vimeo.com/showcase/8848805" target="_blank">
+<img  align="center"  src="https://img.icons8.com/doodle/2x/vimeo.png"  height="40"  width="40"  /></a>
+  
+<a href="https://www.instagram.com/fordlaturnas/" target="_blank">
+<img  align="center"  src="https://img.icons8.com/doodle/2x/instagram.png"  height="40"  width="40"  /></a>
+
+ <a href="mailto:fordlaturnas1209@gmail.com" target="_blank">
+<img  align="center"  src="https://img.icons8.com/doodle/2x/gmail.png"  height="40"  width="40"  /></a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhishekhnaiidu.abhishekhnaiidu)
 <br />
@@ -78,11 +79,4 @@
 [![Ford's github activity graph](https://activity-graph.herokuapp.com/graph?username=fordlaturnas&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  <!--[Ford Laturnas GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=fordlaturnas&theme=xcode)>
-
-
-
-[youtube]: https://www.youtube.com/c/ezkowd
-[instagram]: https://www.instagram.com/fordlaturnas/
-[linkedin]: https://www.linkedin.com/in/fordlaturnas/
-[vimeo]: https://vimeo.com/showcase/8848805
 
