@@ -27,7 +27,7 @@
  <a href="mailto:fordlaturnas1209@gmail.com" target="_blank">
 <img  align="center"  src="https://img.icons8.com/doodle/2x/gmail.png"  height="40"  width="40"  /></a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhishekhnaiidu.abhishekhnaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=fordlaturnas.fordlaturnas)
 <br />
 
 ### Languages and Tools:
