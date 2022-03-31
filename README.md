@@ -57,6 +57,7 @@
   <img align="left" alt="Ford Laturnas' GitHub Stats" src="https://github-readme-stats-mocha-three-63.vercel.app/api?username=fordlaturnas&show_icons=true&hide_border=true" />
   
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fordlaturnas)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
