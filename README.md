@@ -26,8 +26,7 @@
 
  <a href="mailto:fordlaturnas1209@gmail.com" target="_blank">
 <img  align="center"  src="https://img.icons8.com/doodle/2x/gmail.png"  height="40"  width="40"  /></a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=fordlaturnas.fordlaturnas)
+    
 <br />
 
 ### Languages and Tools:
@@ -76,7 +75,7 @@
 
 
 
-[![Ford's github activity graph](https://activity-graph.herokuapp.com/graph?username=fordlaturnas&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ford's github activity graph](https://activity-graph.herokuapp.com/graph?username=fordlaturnas&bg_color=1a1b1f&color=b2cde6&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  <!--[Ford Laturnas GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=fordlaturnas&theme=xcode)>
 
