@@ -17,6 +17,8 @@
 [![Spotify](https://novatorem-fordlaturnas.vercel.app/api/spotify)](https://open.spotify.com/user/31of4h6g5k4qr4jaebb3q3lgyrjm)
 
 
+### Connect With Me:
+
 <p  align="left">
 <a  href="https://www.linkedin.com/in/fordlaturnas/"  target="_blank">
 <img  align="center"  src="https://img.icons8.com/doodle/2x/linkedin.png" height="40"  width="40"  /></a>
@@ -37,9 +39,9 @@
 <img  align="center"  src="https://img.icons8.com/doodle/2x/gmail.png"  height="40"  width="40"  /></a>
     
 <br />
----
+
     
-### Languages and Tools:
+### Languages And Tools:
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
