@@ -16,8 +16,7 @@
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem-fordlaturnas.vercel.app/api/spotify)](https://open.spotify.com/user/31of4h6g5k4qr4jaebb3q3lgyrjm)
 
-----
-<br />
+
 ### Connect With Me:
 
 <p  align="left">
@@ -39,6 +38,7 @@
  <a href="mailto:fordlaturnas1209@gmail.com" target="_blank">
 <img  align="center"  src="https://img.icons8.com/doodle/2x/gmail.png"  height="40"  width="40"  /></a>
     
+----
 <br />
 <br />
 ----
