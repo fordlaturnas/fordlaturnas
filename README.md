@@ -64,10 +64,7 @@
 
 ### Coding Stats
 <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
+![Ford Laturnas wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fordlaturnas)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--END_SECTION:waka-->
 
