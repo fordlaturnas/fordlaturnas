@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate to other developer and content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I am also a photographer, videographer, editor and guitarist.
+- ⚡ Fun fact: I am also a Photographer, Videographer, Editor and Guitarist.
 
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem-fordlaturnas.vercel.app/api/spotify)](https://open.spotify.com/user/31of4h6g5k4qr4jaebb3q3lgyrjm)
