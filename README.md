@@ -39,7 +39,7 @@
 <img  align="center"  src="https://img.icons8.com/doodle/2x/gmail.png"  height="40"  width="40"  /></a>
     
 ----
-<br />
+
     
 ### Languages And Tools:
     
@@ -63,8 +63,8 @@
 ![image](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![image](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
     
+----
 <br />
----
 
 ### 📺 My Latest YouTube Videos:
 <!-- YOUTUBE:START -->
