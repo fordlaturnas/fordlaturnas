@@ -54,7 +54,9 @@
 
 ### :zap: GitHub Stats
 
-  <img align="left" alt="Ford Laturnas' GitHub Stats" src="https://github-readme-stats-delta-lyart.vercel.app/api?username=fordlaturnas&show_icons=true&hide_border=true" />
+  <img align="left" alt="Ford Laturnas' GitHub Stats" src="https://github-readme-stats-mocha-three-63.vercel.app/api?username=fordlaturnas&show_icons=true&hide_border=true" />
+  
+
 
 
 
