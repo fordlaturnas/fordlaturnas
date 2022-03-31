@@ -40,8 +40,6 @@
     
 ----
 <br />
-<br />
-----
     
 ### Languages And Tools:
 
