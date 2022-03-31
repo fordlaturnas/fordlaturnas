@@ -24,6 +24,9 @@
 <a href="https://www.youtube.com/ezkowd" target="_blank">
 <img  align="center"  src="https://img.icons8.com/doodle/2x/youtube.png"  height="40"  width="40"  /></a>
     
+ <a href="https://fordlaturnas.netlify.app/" target="_blank">
+<img  align="center"  src="https://img.icons8.com/doodle/2x/globe.png"  height="40"  width="40"  /></a> 
+    
 <a href="https://vimeo.com/showcase/8848805" target="_blank">
 <img  align="center"  src="https://img.icons8.com/doodle/2x/vimeo.png"  height="40"  width="40"  /></a>
   
