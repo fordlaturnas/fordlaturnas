@@ -59,6 +59,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fordlaturnas)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Ford Laturnas' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fordlaturnas)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 [youtube]: https://www.youtube.com/c/ezkowd
