@@ -78,8 +78,8 @@
 
 ### GitHub Stats
 
-  <img align="left" alt="Ford Laturnas' GitHub Stats" src="https://github-readme-stats-mocha-three-63.vercel.app/api?   username=fordlaturnas&show_icons=true&hide_border=true&theme=cobalt" />
- <br/>      
+  <img align="left" alt="Ford Laturnas' GitHub Stats" src="https://github-readme-stats-mocha-three-63.vercel.app/api? username=fordlaturnas&show_icons=true&hide_border=true&theme=cobalt" />
+ 
  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fordlaturnas&layout=compact&hide_border=false" />
  </a>
