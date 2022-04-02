@@ -81,9 +81,7 @@
  [![Ford Laturnas' GitHub stats](https://github-readme-stats.vercel.app/api?username=fordlaturnas&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
 ### Top Languages
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fordlaturnas&layout=compact&hide_border=false" />
- </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fordlaturnas)](https://github.com/anuraghazra/github-readme-stats)
     
  
  ### Time Spent
