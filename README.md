@@ -85,8 +85,9 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fordlaturnas&layout=compact&hide_border=false" />
  </a>
     
- <br />
+ 
  ### Time Spent
+    
  [![Ford Laturnas wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@fordlaturnas335&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
  ### GitHub Streak
