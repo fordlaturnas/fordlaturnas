@@ -78,20 +78,15 @@
 
 ### GitHub Stats
 
- [![Ford Laturnas' GitHub stats](https://github-readme-stats.vercel.app/api?username=fordlaturnas&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+ [![Ford Laturnas' GitHub stats](https://github-readme-stats.vercel.app/api?username=fordlaturnas)](https://github.com/anuraghazra/github-readme-stats)
     
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fordlaturnas&layout=compact&hide_border=false" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fordlaturnas&layout=compact&hide_border=true" />
  </a>
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fordlaturnas&theme=dark)](https://git.io/streak-stats)
     
-    
-
 [![Ford Laturnas wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@fordlaturnas335&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fordlaturnas&theme=dark)](https://git.io/streak-stats)
 
 [![Ford's github activity graph](https://activity-graph.herokuapp.com/graph?username=fordlaturnas&bg_color=242C33&color=b2cde6&line=9FCCFF&point=F87683&area=true&hide_border=true&custom_title=Ford%20Laturnas'%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
