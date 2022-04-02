@@ -84,11 +84,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fordlaturnas&layout=compact&hide_border=true" />
  </a>
  
- <a href="https://github.com/anuraghazra/github-readme-stats">
-    Ford Laturnas wakatime stats
-  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=@fordlaturnas335&hide_border=true" />
- </a>
-    
+ [![Ford Laturnas wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@fordlaturnas335&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fordlaturnas&theme=dark)](https://git.io/streak-stats)
 
