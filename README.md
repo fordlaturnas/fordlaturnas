@@ -83,7 +83,7 @@
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fordlaturnas&layout=compact&theme=slateorange&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
     
- ### Time Spent
+ ### Weekly Coding Time Spent
  [![Ford Laturnas wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@fordlaturnas335&hide_border=false&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
  ### GitHub Streak
