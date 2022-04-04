@@ -81,10 +81,10 @@
  [![Ford Laturnas' GitHub stats](https://github-readme-stats.vercel.app/api?username=fordlaturnas&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
 ### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fordlaturnas&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fordlaturnas&layout=compact&theme=slateorange&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
     
  ### Time Spent
- [![Ford Laturnas wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@fordlaturnas335&hide_border=false&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ [![Ford Laturnas wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@fordlaturnas335&hide_border=false&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
  ### GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fordlaturnas&theme=dark)](https://git.io/streak-stats)
