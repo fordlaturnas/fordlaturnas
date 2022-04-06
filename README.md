@@ -67,11 +67,11 @@
 
 ### 📺 My Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [Paano mag install ng keyboard sound sa pc](https://www.youtube.com/watch?v=JJyOnP4woTg)
 - [Quote Generator - HTML CSS JavaScript Project Tutorial](https://www.youtube.com/watch?v=_zThjkoMS74)
 - [Nav Bar &lpar;Sticky&rpar; - HTML CSS JavaScript - Web Development Project](https://www.youtube.com/watch?v=axckUpZOMhc)
 - [NAV BAR &lpar;STICKY&rpar; HTML CSS JAVASCRIPT #shorts](https://www.youtube.com/watch?v=TkLXU-XPAto)
 - [Kinetic Loader - HTML CSS  #shorts](https://www.youtube.com/watch?v=ToDuC7qjZLg)
-- [Kinetic Loader HTML CSS - Tagalog Tutorial | Web Development Project](https://www.youtube.com/watch?v=MxqIm9iTEb0)
 <!-- YOUTUBE:END -->
 
 ---
