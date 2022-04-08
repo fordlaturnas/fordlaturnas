@@ -90,8 +90,15 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fordlaturnas&theme=dark)](https://git.io/streak-stats)
 
  ### Activity Trends
-[![Ford's github activity graph](https://activity-graphh.herokuapp.com/graph?username=fordlaturnas&bg_color=242C33&color=b2cde6&line=9FCCFF&point=F87683&area=true&hide_border=true&custom_title=Ford%20Laturnas'%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+    
+ [![Ford's github activity graph](https://activity-graph.herokuapp.com/graph?username=fordlaturnas&theme=react-dark&custom_title=Ford%20Laturnas'%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+    
+    
+    
+ <!---   my own activity instance deployed in heroku
+    <!--[Ford Laturnas GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=fordlaturnas&theme=xcode)>
+--->
     
     
  
- <!--[Ford Laturnas GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=fordlaturnas&theme=xcode)>
+ 
