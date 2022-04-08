@@ -65,7 +65,7 @@
     
 ----
 
-### 📺 My Latest YouTube Videos
+### My Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Login Page gawa sa React.js&lpar;Login page using React.js&rpar;](https://www.youtube.com/watch?v=We3Xi58YqT0)
 - [useReducer in React.js - how to use | &lpar;in Tagalog&rpar;](https://www.youtube.com/watch?v=38r-JQ_lrmk)
