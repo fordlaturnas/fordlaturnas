@@ -17,7 +17,7 @@
 [![Spotify](https://novatorem-fordlaturnas.vercel.app/api/spotify)](https://open.spotify.com/user/31of4h6g5k4qr4jaebb3q3lgyrjm)
 
 
-### Connect With Me:
+### Connect With Me
 
 <p  align="left">
 <a  href="https://www.linkedin.com/in/fordlaturnas/"  target="_blank">
@@ -41,7 +41,7 @@
 ----
 
     
-### Languages And Tools: 
+### Languages And Tools
     
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -65,7 +65,7 @@
     
 ----
 
-### 📺 My Latest YouTube Videos:
+### 📺 My Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Paano mag install ng keyboard sound sa pc](https://www.youtube.com/watch?v=JJyOnP4woTg)
 - [Quote Generator - HTML CSS JavaScript Project Tutorial](https://www.youtube.com/watch?v=_zThjkoMS74)
@@ -76,7 +76,7 @@
 
 ---
 
-### GitHub Stats:
+### GitHub Stats
 
  [![Ford Laturnas' GitHub stats](https://github-readme-stats.vercel.app/api?username=fordlaturnas&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
