@@ -76,7 +76,7 @@
 
 ---
 
-### GitHub Stats
+### GitHub Stats:
 
  [![Ford Laturnas' GitHub stats](https://github-readme-stats.vercel.app/api?username=fordlaturnas&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
