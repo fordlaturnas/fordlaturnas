@@ -71,7 +71,7 @@
 - [useReducer in React.js - how to use | &lpar;in Tagalog&rpar;](https://www.youtube.com/watch?v=38r-JQ_lrmk)
 - [debouncing and cleanup  in the useEffect | React.js &lpar;in Tagalog&rpar;](https://www.youtube.com/watch?v=1to8mcjybXc)
 - [Triggering the validation function every keystroke  with the use of useEffect in React. &lpar;Tagalog&rpar;](https://www.youtube.com/watch?v=EQct51_FKvw)
-- [Save login information in browser via useEffect.  | React.js  &lpar;in Tagalo&rpar; Part 01](https://www.youtube.com/watch?v=NK1VhPunc6I)
+- [Save login information in browser via useEffect.  | React.js  &lpar;in Tagalog&rpar;](https://www.youtube.com/watch?v=NK1VhPunc6I)
 <!-- YOUTUBE:END -->
 
 ---
