@@ -67,11 +67,11 @@
 
 ### 📺 My Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Login Page gawa sa React.js&lpar;Login page using React.js&rpar;](https://www.youtube.com/watch?v=We3Xi58YqT0)
+- [useReducer in React.js - how to use | &lpar;in Tagalog&rpar;](https://www.youtube.com/watch?v=38r-JQ_lrmk)
 - [debouncing and cleanup  in the useEffect | React.js &lpar;in Tagalog&rpar;](https://www.youtube.com/watch?v=1to8mcjybXc)
 - [Triggering the validation function every keystroke  with the use of useEffect in React. &lpar;Tagalog&rpar;](https://www.youtube.com/watch?v=EQct51_FKvw)
 - [Save login information in browser via useEffect.  | React.js  &lpar;in Tagalo&rpar; Part 01](https://www.youtube.com/watch?v=NK1VhPunc6I)
-- [Paano mag install ng keyboard sound sa pc](https://www.youtube.com/watch?v=JJyOnP4woTg)
-- [Quote Generator - HTML CSS JavaScript Project Tutorial](https://www.youtube.com/watch?v=_zThjkoMS74)
 <!-- YOUTUBE:END -->
 
 ---
