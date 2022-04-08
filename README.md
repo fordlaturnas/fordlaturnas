@@ -67,11 +67,11 @@
 
 ### 📺 My Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [debouncing and cleanup  in the useEffect | React.js &lpar;in Tagalog&rpar;](https://www.youtube.com/watch?v=1to8mcjybXc)
+- [Triggering the validation function every keystroke  with the use of useEffect in React. &lpar;Tagalog&rpar;](https://www.youtube.com/watch?v=EQct51_FKvw)
+- [Save login information in browser via useEffect.  | React.js  &lpar;in Tagalo&rpar; Part 01](https://www.youtube.com/watch?v=NK1VhPunc6I)
 - [Paano mag install ng keyboard sound sa pc](https://www.youtube.com/watch?v=JJyOnP4woTg)
 - [Quote Generator - HTML CSS JavaScript Project Tutorial](https://www.youtube.com/watch?v=_zThjkoMS74)
-- [Nav Bar &lpar;Sticky&rpar; - HTML CSS JavaScript - Web Development Project](https://www.youtube.com/watch?v=axckUpZOMhc)
-- [NAV BAR &lpar;STICKY&rpar; HTML CSS JAVASCRIPT #shorts](https://www.youtube.com/watch?v=TkLXU-XPAto)
-- [Kinetic Loader - HTML CSS  #shorts](https://www.youtube.com/watch?v=ToDuC7qjZLg)
 <!-- YOUTUBE:END -->
 
 ---
