@@ -95,7 +95,7 @@
     
     
     
- <!---   my own activity instance deployed in heroku - ford laturnas
+ <!---   my own activity instance deployed in heroku - fordlaturnas
     <!--[Ford Laturnas GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=fordlaturnas&theme=xcode)>
 --->
     
