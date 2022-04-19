@@ -67,11 +67,11 @@
 
 ### My Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [passing function as value in useContext Hook |  React.js   | &lpar;Tagalog&rpar;](https://www.youtube.com/watch?v=c2FKVKoE3d4)
+- [Context API using useContext Hook React  | &lpar;Tagalog&rpar;](https://www.youtube.com/watch?v=B9_3h2n-Jnw)
+- [using Context API in React &lpar;Tagalog&rpar;](https://www.youtube.com/watch?v=A655mEOqaHk)
 - [Login Page gawa sa React.js&lpar;Login page using React.js&rpar;](https://www.youtube.com/watch?v=We3Xi58YqT0)
 - [useReducer in React.js - how to use | &lpar;in Tagalog&rpar;](https://www.youtube.com/watch?v=38r-JQ_lrmk)
-- [debouncing and cleanup  in the useEffect | React.js &lpar;in Tagalog&rpar;](https://www.youtube.com/watch?v=1to8mcjybXc)
-- [Triggering the validation function every keystroke  with the use of useEffect in React. &lpar;Tagalog&rpar;](https://www.youtube.com/watch?v=EQct51_FKvw)
-- [Save login information in browser via useEffect.  | React.js  &lpar;in Tagalog&rpar;](https://www.youtube.com/watch?v=NK1VhPunc6I)
 <!-- YOUTUBE:END -->
 
 ---
