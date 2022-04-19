@@ -67,11 +67,11 @@
 
 ### My Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [using Forward Ref to refractor Login component  | React  | &lpar;Tagalog&rpar;](https://www.youtube.com/watch?v=89RL5rZ3--o)
+- [Making a custom Context Provider Component | React | &lpar;Tagalog&rpar;](https://www.youtube.com/watch?v=Fes2YqY4PiA)
+- [making the input field of Login component into Input reusable component  | React | &lpar;Tagalog&rpar;](https://www.youtube.com/watch?v=uO7zL4Q3PDU)
 - [passing function as value in useContext Hook |  React.js   | &lpar;Tagalog&rpar;](https://www.youtube.com/watch?v=c2FKVKoE3d4)
 - [Context API using useContext Hook React  | &lpar;Tagalog&rpar;](https://www.youtube.com/watch?v=B9_3h2n-Jnw)
-- [using Context API in React &lpar;Tagalog&rpar;](https://www.youtube.com/watch?v=A655mEOqaHk)
-- [Login Page gawa sa React.js&lpar;Login page using React.js&rpar;](https://www.youtube.com/watch?v=We3Xi58YqT0)
-- [useReducer in React.js - how to use | &lpar;in Tagalog&rpar;](https://www.youtube.com/watch?v=38r-JQ_lrmk)
 <!-- YOUTUBE:END -->
 
 ---
