@@ -67,11 +67,11 @@
 
 ### My Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Food Order App in React js &lpar;Tagalog&rpar; Part 02](https://www.youtube.com/watch?v=sA_YqfkUgBE)
+- [Food Order App in React js &lpar;Tagalog&rpar; Part 01](https://www.youtube.com/watch?v=-jZa6SsEKJY)
 - [using Forward Ref to refractor Login component  | React  | &lpar;Tagalog&rpar;](https://www.youtube.com/watch?v=89RL5rZ3--o)
 - [Making a custom Context Provider Component | React | &lpar;Tagalog&rpar;](https://www.youtube.com/watch?v=Fes2YqY4PiA)
 - [making the input field of Login component into Input reusable component  | React | &lpar;Tagalog&rpar;](https://www.youtube.com/watch?v=uO7zL4Q3PDU)
-- [passing function as value in useContext Hook |  React.js   | &lpar;Tagalog&rpar;](https://www.youtube.com/watch?v=c2FKVKoE3d4)
-- [Context API using useContext Hook React  | &lpar;Tagalog&rpar;](https://www.youtube.com/watch?v=B9_3h2n-Jnw)
 <!-- YOUTUBE:END -->
 
 ---
