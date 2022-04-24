@@ -67,11 +67,11 @@
 
 ### My Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Food Order App in React js &lpar;Tagalog&rpar; Part 04](https://www.youtube.com/watch?v=dOQjd2GZ1Io)
-- [Food Order App in React js &lpar;Tagalog&rpar; Part 03](https://www.youtube.com/watch?v=HNh3i-Jg92o)
-- [Food Order App in React js &lpar;Tagalog&rpar; Part 06](https://www.youtube.com/watch?v=M5xfcjTCGlk)
-- [Food Order App in React js &lpar;Tagalog&rpar; Part 05](https://www.youtube.com/watch?v=lxl_lyqcRW0)
-- [Food Order App in React js &lpar;Tagalog&rpar; Part 02](https://www.youtube.com/watch?v=sA_YqfkUgBE)
+- [Food Order App in React js &lpar;Tagalog&rpar; Part 04 - adding meals component.](https://www.youtube.com/watch?v=dOQjd2GZ1Io)
+- [Food Order App in React js &lpar;Tagalog&rpar; Part 03 - adding cart button component](https://www.youtube.com/watch?v=HNh3i-Jg92o)
+- [Food Order App in React js &lpar;Tagalog&rpar; Part 06  - adding a form.](https://www.youtube.com/watch?v=M5xfcjTCGlk)
+- [Food Order App in React js &lpar;Tagalog&rpar; Part 05 - adding individual meals item and displaying them.](https://www.youtube.com/watch?v=lxl_lyqcRW0)
+- [Food Order App in React js &lpar;Tagalog&rpar; Part 02 - adding header component](https://www.youtube.com/watch?v=sA_YqfkUgBE)
 <!-- YOUTUBE:END -->
 
 ---
