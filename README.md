@@ -67,11 +67,11 @@
 
 ### My Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Food Order App in React js &lpar;Tagalog&rpar; Part 07 - working on shopping component](https://www.youtube.com/watch?v=NBwXA0tC0pc)
-- [Food Order App in React js &lpar;Tagalog&rpar; Part 09 -   managing cart and modal state](https://www.youtube.com/watch?v=WiSoi7NYLCA)
-- [Food Order App in React js &lpar;Tagalog&rpar; Part 08 -  adding modal via react portal](https://www.youtube.com/watch?v=092_qnZWad0)
-- [Food Order App in React js &lpar;Tagalog&rpar; Part 04 - adding meals component.](https://www.youtube.com/watch?v=dOQjd2GZ1Io)
-- [Food Order App in React js &lpar;Tagalog&rpar; Part 03 - adding cart button component](https://www.youtube.com/watch?v=HNh3i-Jg92o)
+- [Food Order App in React JS &lpar;Tagalog&rpar; Part 12 - adding a cart reducer](https://www.youtube.com/watch?v=Nd88XuCeiEM)
+- [Food Order App in React JS &lpar;Tagalog&rpar; Part 11 - using the context](https://www.youtube.com/watch?v=zKPlzynOlaA)
+- [Food Order App in React JS &lpar;Tagalog&rpar; Part 10 -  adding cart context](https://www.youtube.com/watch?v=zylykuU-RtA)
+- [Food Order App in React JS &lpar;Tagalog&rpar; Part 07 - working on shopping component](https://www.youtube.com/watch?v=NBwXA0tC0pc)
+- [Food Order App in React JS &lpar;Tagalog&rpar; Part 09 -   managing cart and modal state](https://www.youtube.com/watch?v=WiSoi7NYLCA)
 <!-- YOUTUBE:END -->
 
 ---
